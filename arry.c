@@ -14,6 +14,7 @@ int main(){
     int n=0;
     printf("how many numbers you  want to add in array");
     scanf("%d",&n);
+    scanf("%d",&n);
 
     for(int i=0; i<n; i++){
         printf("%d",i);
